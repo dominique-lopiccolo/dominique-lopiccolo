@@ -1,16 +1,14 @@
-## Hi there 👋
+<h1 align="center">Dominique Lopiccolo</h1>
+<h3 align="center">Cognitive Neuroscience PhD Student @ University of Delaware</h3>
+<br>
 
-<!--
-**dominique-lopiccolo/dominique-lopiccolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### *Research Interests*
+<p>🌎 &nbsp;&nbsp;Broadly, I'm interested in discovering the behavioral and neural mechanisms which underlie human reasoning.</p>
+<p>🧠 &nbsp;&nbsp;Specifically, I'm interested in using the tools of functional MRI and psychophysics to shed light on this process.</p>
+<p>🔢 &nbsp;&nbsp;Currently, I'm investigating mathematical reasoning in children and adults as a specific lens into this subject.</p>
+<p>🔮 &nbsp;&nbsp;In the future, I aim to expand this research to other types of reasoning including logic and statistics.</p>
+<br>
 
-Here are some ideas to get you started:
+### *Call Me, Beep Me, If You Wanna Reach Me*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
