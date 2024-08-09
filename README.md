@@ -10,5 +10,8 @@
 <br>
 
 ### *Call Me, Beep Me, If You Wanna Reach Me*
-![X](/X-white-small.png) [@D_Lopiccolo](https://x.com/D_Lopiccolo)
+<p>𝕏 &nbsp;&nbsp; [@D_Lopiccolo](https://x.com/D_Lopiccolo)</p>
+<p>📧 &nbsp;&nbsp; [dominique.s.lopiccolo@gmail.com](dominique.s.lopiccolo@gmail.com)</p>
+<p>![linkedin](/linkedin.png)</p>
+
 
