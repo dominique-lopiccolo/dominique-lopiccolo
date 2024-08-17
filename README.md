@@ -11,7 +11,7 @@
 
 ### *Call Me, Beep Me, If You Wanna Reach Me*
 
-<p>📧 &nbsp;&nbsp; <a href="mailto:dominique.s.lopiccolo@gmail.com">Email</a></p>
+<p>📧 &nbsp;&nbsp; <a href="mailto:domlopneuro@gmail.com">Email</a></p>
 <p>🌐 &nbsp;&nbsp; <a href="https://dominique-lopiccolo.github.io/">Personal Website</a></p>
 <p>📄 &nbsp;&nbsp; <a href="https://www.linkedin.com/in/dominique-lopiccolo/">LinkedIn</a></p>
 <p>𝕏 &nbsp;&nbsp; <a href="https://x.com/D_Lopiccolo">X / Twitter</a></p>
